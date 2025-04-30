@@ -1,0 +1,7 @@
+/ui-downloader/
+   ├── /android/      # Android-specific code
+   ├── /ios/         # iOS-specific code
+   ├── /pc/          # Windows/Linux/macOS code
+   ├── /core/        # Shared cross-platform logic
+   ├── README.md     # Docs
+   └── LICENSE       # MIT/GPL
